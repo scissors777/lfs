@@ -33,11 +33,11 @@ This project is primarily for:
 
 ## 🛠️ Tools & Environment
 
-- **LFS Version:** 11.3
-- **Host System:** Ubuntu 22.04
+- **LFS Version:** 12.3
+- **Host System:** AlmaLinux 9.5
 - **Architecture:** x86_64
 - **Build Method:** Manual via chroot
-- **Kernel Version:** 6.1.x
+- **Kernel Version:** 6.x.x
 
 ---
 
@@ -68,3 +68,6 @@ This project is primarily for:
 - [LFS Hints & Community](https://www.linuxfromscratch.org/hints/)
 
 ---
+## 📄 License
+
+This project is open-source and licensed under the GPLv3 License.
