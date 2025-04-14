@@ -43,7 +43,7 @@ This project is primarily for:
 
 ## ✅ Progress Checklist
 
-- [ ] Host System Ready
+- [*] Host System Ready
 - [ ] Toolchain Compiled
 - [ ] Temporary Tools Built
 - [ ] Final System Installed
