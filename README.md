@@ -16,7 +16,7 @@ This project is primarily for:
 
 ## 📁 Project Structure
 
-```bash
+```
 /
 ├── 00-bootstrap/      # Host preparation and toolchain bootstrap
 ├── 01-temp-tools/     # Temporary system tools (Chapter 5)
@@ -27,3 +27,44 @@ This project is primarily for:
 ├── logs/              # Build logs for troubleshooting
 ├── scripts/           # Helper scripts and build automation
 └── README.md          # This file
+```
+
+---
+
+## 🛠️ Tools & Environment
+
+- **LFS Version:** 11.3
+- **Host System:** Ubuntu 22.04
+- **Architecture:** x86_64
+- **Build Method:** Manual via chroot
+- **Kernel Version:** 6.1.x
+
+---
+
+## ✅ Progress Checklist
+
+- [ ] Host System Ready
+- [ ] Toolchain Compiled
+- [ ] Temporary Tools Built
+- [ ] Final System Installed
+- [ ] Kernel Built
+- [ ] Bootable Image Created
+- [ ] System Booted Successfully
+
+---
+
+## 📌 Notes
+
+- All commands are documented step-by-step.
+- Build logs are stored in the `logs/` directory.
+- Any deviations from the LFS book are explained with reasons.
+
+---
+
+## 📦 Resources
+
+- [Linux From Scratch Official Book](https://www.linuxfromscratch.org/lfs/)
+- [Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/)
+- [LFS Hints & Community](https://www.linuxfromscratch.org/hints/)
+
+---
